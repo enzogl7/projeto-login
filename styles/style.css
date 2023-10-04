@@ -53,3 +53,24 @@ body, html {
     display: block;
     padding: 10px;
  }
+
+ #form > h1 {
+   text-align: center;
+   margin-bottom: 10px;
+ }
+
+ #form > p { 
+   font-size: 0.8em;
+ }
+
+ #ilogin {
+   border: 1px solid;
+   padding: 2px;
+   border-radius: 5px;
+ }
+
+ #isenha {
+   border: 1px solid;
+   padding: 2px;
+   border-radius: 5px;
+ }
